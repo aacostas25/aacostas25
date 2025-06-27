@@ -20,11 +20,11 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+    <a href="https://github.com/aacostas25/HotelFranchiseDBMS.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aacostas25&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    <a href="https://github.com/aacostas25/Linux-Shell-Implementation.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aacostas25&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
     </a>
   </p>
 </div>
@@ -35,7 +35,7 @@ __Check out my GitHub repository:__
 <div>
 <!--   <p align="center">
     <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=aacostas25&cover_image=true&theme=novatorem" alt="Now Listenting to" />
   </p> -->
   
   <p align="center">
