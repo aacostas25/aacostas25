@@ -35,11 +35,11 @@ I enjoy reading novels, painting & sketching, listening to music, and exploring 
 ## 🚀 Featured Projects
 
 <div>
-  <a href="https://github.com/aacostas25/HotelFranchiseDBMS.git">
+  <a href="https://github.com/aacostas25/TrabajofinalEspecializacion.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aacostas25&repo=TrabajofinalEspecializacion" alt="Trabajo final Especializacion" />
   </a>
-  <a href="https://github.com/aacostas25/Linux-Shell-Implementation.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aacostas25&repo=Linux-Shell-Implementation" alt="Linux Shell Implementation" />
+  <a href="https://github.com/aacostas25/mineriadedatos_mnist.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aacostas25&repo=mineriadedatos_mnist" alt="Linux Shell Implementation" />
   </a>
 </div>
 
