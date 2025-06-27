@@ -36,7 +36,7 @@ I enjoy reading novels, painting & sketching, listening to music, and exploring 
 
 <div>
   <a href="https://github.com/aacostas25/HotelFranchiseDBMS.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aacostas25&repo=HotelFranchiseDBMS" alt="Hotel Franchise DBMS" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aacostas25&repo=TrabajofinalEspecializacion" alt="Trabajo final Especializacion" />
   </a>
   <a href="https://github.com/aacostas25/Linux-Shell-Implementation.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aacostas25&repo=Linux-Shell-Implementation" alt="Linux Shell Implementation" />
