@@ -1,53 +1,63 @@
-# Hi there 👋, Andrea here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
+# Hi there 👋, Andrea here  
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aacostas25.repoName) [![GitHub followers](https://img.shields.io/github/followers/aacostas25.svg?style=social&label=Follow)](https://github.com/aacostas25?tab=followers)
 
+<img align="right" width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+I'm Andrea, an undergraduate student passionate about Computer Science and its real-world applications. I enjoy programming, solving problems, and creating things that can have a meaningful impact.
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+🧠 **Languages & Tools:**  
+C, C++, Python, JavaScript, HTML, Shell, SQL, React, Java
 
-__Check out my GitHub repository:__
+✨ **Interests:**  
+Web design, backend development, data science, digital education, and tech for social good.
+
+🌱 **Currently learning:**
+- Advanced React
+- Machine Learning basics
+- Power Platform integration
+
+🤝 **Looking to collaborate on:**  
+Open-source and educational projects that empower communities.
+
+💬 **Ask me about:**  
+Computing education, backend design, or tech outreach in rural areas! I'm happy to help if I can. 😉
+
+🎨 **Outside tech:**  
+I enjoy reading novels, painting & sketching, listening to music, and exploring nature 🌴
+
+📫 **Reach me at:**  
+[📧 andrea.acosta@correo.unal.edu.co](mailto:andrea.acosta@correo.unal.edu.co)
+
+---
+
+## 🚀 Featured Projects
 
 <div>
-  <p>
-    <a href="https://github.com/aacostas25/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aacostas25&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/aacostas25/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aacostas25&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a>
-  </p>
+  <a href="https://github.com/aacostas25/HotelFranchiseDBMS.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aacostas25&repo=HotelFranchiseDBMS" alt="Hotel Franchise DBMS" />
+  </a>
+  <a href="https://github.com/aacostas25/Linux-Shell-Implementation.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aacostas25&repo=Linux-Shell-Implementation" alt="Linux Shell Implementation" />
+  </a>
 </div>
 
+---
 
-<h2>👀 My github Stats</h2>
+## 📊 GitHub Stats
 
-<div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=aacostas25&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats" /> <br/><br/>
-  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aacostas25" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aacostas25&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aacostas25&layout=compact" alt="Top Languages" />
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
+---
 
----------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
+### 📌 Credits
+Template inspired by [Bhargavi-hash](https://github.com/Bhargavi-hash)
 
-Date: 18/11/2021
+_Last updated: 27/06/20_
