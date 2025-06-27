@@ -8,15 +8,15 @@
 I'm Andrea, an undergraduate student passionate about Computer Science and its real-world applications. I enjoy programming, solving problems, and creating things that can have a meaningful impact.
 
 🧠 **Languages & Tools:**  
-C, C++, Python, JavaScript, HTML, Shell, SQL, React, Java
+Python, R, JavaScript, HTML, CSS, SQL, React
 
 ✨ **Interests:**  
-Web design, backend development, data science, digital education, and tech for social good.
+Backend development, data science, digital education, and tech for social good.
 
 🌱 **Currently learning:**
-- Advanced React
-- Machine Learning basics
+- Machine Learning 
 - Power Platform integration
+- AI Basics
 
 🤝 **Looking to collaborate on:**  
 Open-source and educational projects that empower communities.
@@ -28,7 +28,7 @@ Computing education, backend design, or tech outreach in rural areas! I'm happy 
 I enjoy reading novels, painting & sketching, listening to music, and exploring nature 🌴
 
 📫 **Reach me at:**  
-[📧 andrea.acosta@correo.unal.edu.co](mailto:andrea.acosta@correo.unal.edu.co)
+[📧 aacostas@unal.edu.co](mailto:aacostas@unal.edu.co)
 
 ---
 
