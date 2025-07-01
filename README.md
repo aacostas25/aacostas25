@@ -48,8 +48,6 @@ I enjoy reading novels, painting & sketching, listening to music, and exploring 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aacostas25" alt="GitHub Streak" />
-  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=aacostas25&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aacostas25&layout=compact" alt="Top Languages" />
